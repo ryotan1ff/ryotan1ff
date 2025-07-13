@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryotan1ff&show_icons=true&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/ryotan1ff">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotan1ff&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotan1ff&hide_border=true&count_private=true&hide=shaderlab" />
 </a>
 
 ---
