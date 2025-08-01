@@ -32,7 +32,7 @@ Visit my [portfolio site](https://ryotan1ff.github.io/portfolio-site/).
 
 #### Experience with
 
-[![My Others](https://skillicons.dev/icons?i=js,ts,php,ruby,mysql,nodejs,react,vue,aws,wordpress)](https://skillicons.dev)
+[![My Others](https://skillicons.dev/icons?i=js,ts,php,ruby,mysql,nodejs,react,vue,aws,wordpress,raspberrypi)](https://skillicons.dev)
 
 ---
 
