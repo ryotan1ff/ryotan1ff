@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryotan1ff&hide_border=true&count_private=true&hide=shaderlab" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryotan1ff&rank=-?,-Reviews" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryotan1ff&rank=-?,-Reviews" alt="GitHub Trophy" width=100%>
 </a>
 
 ---
